@@ -1,0 +1,1 @@
+system ("./nbasic clouds.bas -quiet -o clouds.asm ; ./nesasm clouds.asm ; open clouds.nes");
